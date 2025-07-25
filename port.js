@@ -9,3 +9,4 @@ app.get("/",(req,res)=>{
 app.listen(port,()=>{
     "server is listining on port",port
 })
+console.log("its does not run forever");
