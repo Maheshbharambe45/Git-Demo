@@ -1,1 +1,2 @@
 using ssh key
+ssh_key gen user.email
