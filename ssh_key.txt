@@ -1,9 +1,7 @@
 using ssh key
 ssh_key gen user.email
 ssh_key gen user.name
-<<<<<<< HEAD
 fixing a bug in ssh key generation
 stash commits
-=======
 2 gen proc
->>>>>>> c283778 (procedure added)
+
